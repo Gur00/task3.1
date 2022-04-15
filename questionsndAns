@@ -1,0 +1,21 @@
+package com.example.myquiz2;
+
+public class QndA {
+    public static String questions[]={
+            "Question 1",
+            "Question 2",
+            "Question 3"
+
+    };
+    public static String choices[][]={
+            {"Ans 1", "Ans 2", "Ans3"},
+            {"Ans 1", "Ans 2", "Ans 3"},
+            {"Ans 1", "Ans2", "Ans 3"}
+
+    };
+    public static String correctAns[]={
+            "Ans 1",
+            "Ans 3",
+            "Ans 2"
+    };
+}
